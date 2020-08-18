@@ -1,7 +1,7 @@
 ---
 title: Dheeraj Akula
 role: Professor of Artificial Intelligence
-avatar_filename: avatar.jpg
+avatar_filename: avatar2.jpg
 organizations:
   - name: Stanford University
     url: ""
